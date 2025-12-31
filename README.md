@@ -3,10 +3,10 @@
 Title Video: https://drive.google.com/file/d/1XnCnLt9TcTxKtBt9zFMHZvuGuFZz5d5D/view?usp=sharing
 
 # Problem
-Birds often land in crop fields to feed on seeds, fruits, and plants, which can cause noticeable loss in crop quality and yield. Farmers currently rely on conventional deterrent methods—like static scare models, reflective materials, or looped sound devices—that do not adjust based on real bird landings, making them labor-heavy and less effective for large active farm areas.
+Birds often land in crop fields to feed on seeds, fruits, and plants, which can cause noticeable loss in crop quality and yield. Farmers currently rely on conventional deterrent methods-like static scare models, reflective materials, or looped sound devices—that do not adjust based on real bird landings, making them labor-heavy and less effective for large active farm areas.
 
-# Our Solution:
-This is basically a updated version of traditional Scare_crows, this project addresses the need for a real-time, ethical, and harmless bird dispersal prototype, using a laptop’s built-in camera (till now later
+# Our Solution
+This is basically a updated version of traditional Scare Crows, this project addresses the need for a real-time, ethical, and harmless bird dispersal prototype, using a laptop’s built-in camera (till now later
 extend it to a webcam so that real time monitoring happens) as the main detection source during initial testing and prototyping. The system is built to:
 -> Recognize birds from a live video stream
 -> Track their movement inside the camera frame
