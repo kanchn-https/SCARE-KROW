@@ -26,10 +26,13 @@ Bird Detection
 2. Each frame is checked to spot birds.
 3. When a bird is detected, a loud safe sound plays to scare it away.
 4. A box and score show the detection on the screen.
+
 Bird Tracking 
 1. The system can follow the bird's movement by noting the center of the box.
+
 Scare Sound
 1. Sound is triggered at the moment the bird appears in the camera view.
+   
 Live Visualization
 1. The laptop screen keeps showing the camera feed with the box, score, and sound action.
 
@@ -55,7 +58,7 @@ https://drive.google.com/file/d/1mC383psa0BJKUY2BitQ7G8oBiHy2fbxB/view?usp=shari
 https://drive.google.com/file/d/1nLR0IHZqCkJiVmk7KPp4nsYP09xiYXfq/view?usp=sharing
 
 
-# ADVANTAGES
+# ADVANTAGES in Round 1
 
 # Feasibility
 The prototype can work using a laptop camera or webcam.
@@ -72,20 +75,20 @@ It works using normal power and keeps the design simple for testing.
 
 # Improvements for Round2 
 
-1. Handling Large Land
+1. Handling Large Land:
 A dashboard is a simple screen that shows what’s happening in a big farm area at once.
 It makes monitoring easy without checking different cameras separately as the farm land has many scarecrows, and all of them are watched and controlled from one dashboard screen.
-2. Detect more animals
+2. Detect more animals:
 The model will not only spot birds but also animals that damage crops.
 This helps protect crops better and reduces yield loss.
-3. Night Vision Tracking(without sound)
+3. Night Vision Tracking(without sound):
 At night, birds and animals react quickly to light or laser.
 So the system uses laser to scare them, and sound is turned off to keep the field quiet and avoid disturbance.
-4. Sustainable
+4. Sustainable:
 The system is planned to run on solar panels for clean and energy-independent operation.
 
 
-# ADVANTAGES
+# ADVANTAGES in Round 2
 
 # Feasibility
 The idea can work on large land with many scare units.
