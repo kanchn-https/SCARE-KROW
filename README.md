@@ -46,12 +46,12 @@ Workflow:
      Frame                    Frame                    Frame
         |                        |                        |
         V                        V                        V
-   Check bird?              Check bird?              Check bird?
+        Check bird?              Check bird?              Check bird?
         |                        |                        |
         | YES                    | YES                    | YES
         V                        V                        V
- Feedback                   Feedback                   Feedback
-(Box + Sound)              (Box + Sound)              (Box + Sound)
+      Feedback                   Feedback                   Feedback
+      (Box + Sound)              (Box + Sound)              (Box + Sound)
         |                        |                        |
         +----------- Status / Event Data ---------------+
                             |
