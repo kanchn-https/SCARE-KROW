@@ -1,7 +1,9 @@
 # SCARE-KROW 
 
-Title Video: This model structure is created only for creativity and idea representation -> (https://drive.google.com/file/d/1c-8WWulBH9BdkH22C6gemCJLcsxb0GGS/view?usp=sharing)
- https://drive.google.com/file/d/1XnCnLt9TcTxKtBt9zFMHZvuGuFZz5d5D/view?usp=sharing
+Title Video: This model structure is created only for creativity and idea representation -> 
+https://drive.google.com/file/d/1R2WcwcofqplJatQIIU8vje0TIeVs_v3C/view?usp=sharing
+https://drive.google.com/file/d/1c-8WWulBH9BdkH22C6gemCJLcsxb0GGS/view?usp=sharing
+https://drive.google.com/file/d/1XnCnLt9TcTxKtBt9zFMHZvuGuFZz5d5D/view?usp=sharing
 
 # Problem
 Birds often land in crop fields to feed on seeds, fruits, and plants, which can cause noticeable loss in crop quality and yield. Farmers currently rely on conventional deterrent methods-like static scare models, reflective materials, or looped sound devices-that do not adjust based on real bird landings, making them labor-heavy and less effective for large active farm areas.
