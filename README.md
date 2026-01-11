@@ -1,7 +1,7 @@
 # SCARE-KROW 
 
 Title Video: This model structure is created only for creativity and idea representation -> 
-https://drive.google.com/file/d/1R2WcwcofqplJatQIIU8vje0TIeVs_v3C/view?usp=sharing
+https://drive.google.com/file/d/1g9pYkkZhWiO2Rh588IZH0Lc_mzDbFMv3/view?usp=sharing
 https://drive.google.com/file/d/1c-8WWulBH9BdkH22C6gemCJLcsxb0GGS/view?usp=sharing
 https://drive.google.com/file/d/1XnCnLt9TcTxKtBt9zFMHZvuGuFZz5d5D/view?usp=sharing
 
