@@ -34,7 +34,6 @@ The main challenge is to build a fast, easy to use and wildlife-safe system to r
 7. Centralized Display  ->  Eliminates need for on-site inspection
 
 # Prototype:
-Round2 -> https://drive.google.com/file/d/1UOhEsdXtIBkOFTAjEot-hVMHzmf4ERAZ/view?usp=sharing
 Round1 -> https://drive.google.com/file/d/1ySxONb1aam1_WTlZ66-H-rN6bfbyyXLg/view?usp=sharing
 
 Workflow:
